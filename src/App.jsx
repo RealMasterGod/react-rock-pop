@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "./App.css";
 import Navbar from "./components/navbar/Navbar";
-import Slider from "./components/slider/slider";
+import Slider from "./components/slider/Slider";
 import List from "./components/list/List";
 
 function App() {
